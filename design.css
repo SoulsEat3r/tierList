@@ -1,0 +1,79 @@
+.opener{
+    background-image: url("tierlist/thewicther.png");
+    background-size:cover
+}
+h1 , h2{
+    color: gold;
+}
+body{
+    background-color:darkgray;
+}
+label{
+    color: aqua;
+}
+h3{
+    font-size:45px;
+    text-align: center;
+}
+table , th , td{
+    border: 5px solid black;
+    
+}
+.first{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: gold;
+}
+.second{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: silver;
+}
+.third{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: brown;
+}
+.master{
+    text-align: center;
+    font-size: 45px;
+    color:white;
+    background-color:darkmagenta;
+}
+.according{
+    font-size: 13px;
+    text-align: center;
+    color: white;
+}
+.link{
+    font-size: 13px;
+    text-align: center;
+    color: blue;
+}
+.great{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: lime;
+}
+.bad{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: orange;
+}
+.superbad{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: darkred;
+}
+.fuck{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    background-color: red;
+}
